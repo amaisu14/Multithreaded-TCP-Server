@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1571609046 source:c:\users\user\desktop\winsock_server\main.cpp
+	<io.h>
+	<stdio.h>
+	<winsock2.h>
+	<process.h>
+	<cstring>
+	<vector>
+	<ctype.h>
+
